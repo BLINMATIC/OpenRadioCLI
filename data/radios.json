@@ -3,5 +3,15 @@
   {"name": "NPO2", "url": "https://icecast.omroep.nl/radio2-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO2.png?raw=true"},
   {"name": "NPO3", "url": "https://icecast.omroep.nl/3fm-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO3.png?raw=true"},
   {"name": "NPO4", "url": "https://icecast.omroep.nl/radio4-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO4.png?raw=true"},
-  {"name": "NPO5", "url": "https://icecast.omroep.nl/radio5-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO5.png?raw=true"}
+  {"name": "NPO5", "url": "https://icecast.omroep.nl/radio5-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO5.png?raw=true"},
+  {"name": "TRT1", "url": "https://nmicenotrt.mediatriple.net/trt_1.aac", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRT1.png?raw=true"},
+  {"name": "TRT3", "url": "https://nmicenotrt.mediatriple.net/trt_3.aac", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRT3.png?raw=true"},
+  {"name": "TRT4", "url": "https://icecast.omroep.nl/radio4-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRT4.png?raw=true"},
+  {"name": "TRT ANTALYA", "url": "https://icecast.omroep.nl/radio4-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTANTALYA.png?raw=true"},
+  {"name": "TRT ÇUKUROVA", "url": "https://icecast.omroep.nl/radio4-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTÇUKUROVA.png?raw=true"},
+  {"name": "TRT ERZURUM", "url": "https://icecast.omroep.nl/radio4-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTERZURUM.png?raw=true"},
+  {"name": "TRT GAP", "url": "https://icecast.omroep.nl/radio4-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTGAP.png?raw=true"},
+  {"name": "TRT HABER", "url": "https://nmicenotrt.mediatriple.net/trt_haber.aac", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTHABER.png?raw=true"},
+  {"name": "TRT NAĞME", "url": "https://nmicenotrt.mediatriple.net/trt_nagme.aac", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTNAĞME.png?raw=true"},
+  {"name": "TRT TÜRKÜ", "url": "https://nmicenotrt.mediatriple.net/trt_turku.aac", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTNAĞME.png?raw=true"},
 ]
