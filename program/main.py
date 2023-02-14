@@ -6,7 +6,7 @@ from PIL import ImageTk, Image
 import os
 import requests
 
-open("radios.json", "w").write(requests.get("https://raw.githubusercontent.com/BLINMATIC/OpenRadioCLI/main/data/radios.json").text)
+js = requests.get("https://raw.githubusercontent.com/BLINMATIC/OpenRadioCLI/main/data/radios.json").text
 
 class Main:
     def __init__(self):
@@ -17,7 +17,7 @@ class Main:
 
         self.instance = vlc.Instance('--input-repeat=-1', '--fullscreen')
         self.player = self.instance.media_player_new()
-        self.radios = json.loads(open("radios.json", "r").read())
+        self.radios = json.loads(js)
 
         self.previous = tk.Button(self.root, text="⏮", width=2, padx=2, height=1, command=lambda: self.prev_())
         self.next     = tk.Button(self.root, text="⏭", width=2, padx=2, height=1, command=lambda: self.next_())
