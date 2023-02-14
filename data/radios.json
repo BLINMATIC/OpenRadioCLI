@@ -13,5 +13,5 @@
   {"name": "TRT GAP", "url": "https://icecast.omroep.nl/radio4-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTGAP.png?raw=true"},
   {"name": "TRT HABER", "url": "https://nmicenotrt.mediatriple.net/trt_haber.aac", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTHABER.png?raw=true"},
   {"name": "TRT NAĞME", "url": "https://nmicenotrt.mediatriple.net/trt_nagme.aac", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTNAĞME.png?raw=true"},
-  {"name": "TRT TÜRKÜ", "url": "https://nmicenotrt.mediatriple.net/trt_turku.aac", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTNAĞME.png?raw=true"},
+  {"name": "TRT TÜRKÜ", "url": "https://nmicenotrt.mediatriple.net/trt_turku.aac", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/TRTNAĞME.png?raw=true"}
 ]
