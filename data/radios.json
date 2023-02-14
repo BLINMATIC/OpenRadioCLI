@@ -1,4 +1,7 @@
 [
-  {"name": "NPO4", "url": "https://icecast.omroep.nl/radio4-bb-mp3", "image": ""},
-  {"name": "NPO3", "url": "https://icecast.omroep.nl/3fm-bb-mp3", "image": ""}
+  {"name": "NPO1", "url": "https://icecast.omroep.nl/radio1-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO1.png?raw=true"}
+  {"name": "NPO2", "url": "https://icecast.omroep.nl/radio2-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO2.png?raw=true"}
+  {"name": "NPO3", "url": "https://icecast.omroep.nl/3fm-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO3.png?raw=true"}
+  {"name": "NPO4", "url": "https://icecast.omroep.nl/radio4-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO4.png?raw=true"},
+  {"name": "NPO5", "url": "https://icecast.omroep.nl/radio5-bb-mp3", "image": "https://github.com/BLINMATIC/OpenRadioCLI/blob/main/data/images/NPO5.png?raw=true"}
 ]
